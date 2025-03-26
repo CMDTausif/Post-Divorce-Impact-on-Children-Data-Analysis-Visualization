@@ -152,6 +152,54 @@ These tools provided a robust framework for data analysis, visualization, and in
 
 ---
 
+## Results and Insights
+
+
+Let's break down the Results---
+
+1. **What is the relationship between the child’s emotional stability score and the type of custody arrangement (e.g., joint, mother, father, foster care)?**
+
+![Question1_Boxplot](https://github.com/user-attachments/assets/2b3e444c-8c4f-4243-8449-51152a29921f)
+
+The **box plot** demonstrates the distribution of **emotional stability scores** for each custody type.  The median score for **Mother** Custody is **6**, while for other custody types **(Father, Joint, Foster Care)**, it is **5**. This suggests that children in **Mother** Custody tend to have slightly higher emotional stability. Since the boxes are of similar width, variability in scores is comparable across custody types. This indicates that while custody type has some impact, other factors may also influence emotional stability.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
