@@ -159,10 +159,26 @@ Let's break down the Results---
 
 1. **What is the relationship between the child’s emotional stability score and the type of custody arrangement (e.g., joint, mother, father, foster care)?**
 
+**Boxplot** 
+
 ![Question1_Boxplot](https://github.com/user-attachments/assets/2b3e444c-8c4f-4243-8449-51152a29921f)
 
 The **box plot** demonstrates the distribution of **emotional stability scores** for each custody type.  The median score for **Mother** Custody is **6**, while for other custody types **(Father, Joint, Foster Care)**, it is **5**. This suggests that children in **Mother** Custody tend to have slightly higher emotional stability. Since the boxes are of similar width, variability in scores is comparable across custody types. This indicates that while custody type has some impact, other factors may also influence emotional stability.
 
+**Bargraph**
+
+![Question1_Barplot](https://github.com/user-attachments/assets/1fb63b08-d8ad-46bb-ab64-3eb3ef0d3fb7)
+
+This **bar chart** represents the **average emotional stability score** for children under different custody types. 
+* If one custody type (e.g., Mother or Joint Custody) has a higher mean score, it suggests that children in this custody arrangement tend to have better emotional stability.
+
+* A lower mean score for a group (e.g., Foster Care or Legal Guardian) may indicate higher emotional distress.
+
+Here, **Mother Custody** has the **highest mean emotional stability score (5.57)**, suggesting children in this arrangement may experience the most stable emotional environment.
+
+**Foster Care** follows closely with a **mean score** of **5.45**, which is surprisingly higher than **Father** **(5.41)** and **Joint Custody (5.39)**, indicating that support systems in foster care may contribute to emotional stability.
+
+Father and Joint Custody show slightly lower scores, implying potential emotional challenges related to custody dynamics or adjustments, but the differences are minimal.
 
 
 
