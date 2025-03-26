@@ -224,6 +224,16 @@ The **pie chart** delineates  the proportional distribution of different therapy
 
 The **pie chart** shows that **Family Therapy (represented by the blue section)** makes up **66.9%** of the total data, while **Cognitive Behavioral Therapy (CBT) (represented by the red section)** accounts for **33.1%**. This distribution suggests that a higher proportion of individuals in the dataset received Family Therapy compared to **Cognitive Behavioral Therapy.**
 
+**Bargraph**
+
+![Question3_Barchart](https://github.com/user-attachments/assets/7c77d403-60a5-4c0f-8b5f-f1b5e4a6640e)
+
+The bar chart will display the mean happiness scores for each therapy type. Each bar represents a different therapy type (such as Cognitive Behavioral Therapy, Family Therapy, etc.)  
+
+The bar chart reveals that **Cognitive Behavioral Therapy (CBT)**, represented by the blue bar, has a slightly higher mean **happiness score of 5.46**, compared to **Family Therapy**, represented by the red bar, which has a mean **happiness score of 5.38.**
+
+**This suggests that, on average, individuals who underwent Cognitive Behavioral Therapy reported slightly higher levels of happiness than those who received Family Therapy.** 
+
 
 
 
