@@ -180,8 +180,29 @@ Here, **Mother Custody** has the **highest mean emotional stability score (5.57)
 
 Father and Joint Custody show slightly lower scores, implying potential emotional challenges related to custody dynamics or adjustments, but the differences are minimal.
 
+2. **How do depression and anxiety levels correlate with emotional stability scores in children after parental divorce?**
 
+**BubbleChart**
 
+![Question2_BubblePlot](https://github.com/user-attachments/assets/a18e0e55-22ab-4546-8c16-b5af7b69d59d)
+
+This bubble chart demonstrates :
+
+* The relationship between depression levels and emotional stability scores.
+
+* The size of each bubble indicates the depression level, with larger bubbles representing higher depression levels.
+
+* The color of each bubble will represent the anxiety level, allowing you to see if there's any correlation between anxiety levels and the depression-emotional stability relationship.
+
+1. The color gradient indicates the anxiety level. Yellow represents higher anxiety levels, and blue represents lower anxiety levels. This color coding allows you to easily distinguish between different anxiety levels in the data points.
+
+2. As depression levels increase, the size of the bubbles increases, meaning that higher depression levels are visually represented by larger bubbles. This helps to immediately identify which data points have higher depression levels.
+
+3. Emotional stability scores and anxiety levels fluctuate as depression levels increase. This shows that while depression levels are rising (larger bubbles), emotional stability does not follow a simple trend.
+
+4. In some cases, as depression increases, emotional stability might also increase, while in other cases, emotional stability decreases. Similarly, anxiety levels do not follow a single direction; sometimes they increase with depression, and sometimes they decrease.
+
+The chart suggests that depression and emotional stability are not directly correlated, as emotional stability fluctuates even with increasing depression levels.  The anxiety level interacts dynamically with depression and emotional stability. In some cases, high depression might coincide with high anxiety (yellow color), while in others, high depression might correlate with lower anxiety (blue color). 
 
 
 
