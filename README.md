@@ -228,13 +228,17 @@ The **pie chart** shows that **Family Therapy (represented by the blue section)*
 
 ![Question3_Barchart](https://github.com/user-attachments/assets/7c77d403-60a5-4c0f-8b5f-f1b5e4a6640e)
 
-The bar chart will display the mean happiness scores for each therapy type. Each bar represents a different therapy type (such as Cognitive Behavioral Therapy, Family Therapy, etc.)  
+The bar chart displays the mean happiness scores for each therapy type. Each bar represents a different therapy type (such as Cognitive Behavioral Therapy or family Therapy).  
 
 The bar chart reveals that **Cognitive Behavioral Therapy (CBT)**, represented by the blue bar, has a slightly higher mean **happiness score of 5.46**, compared to **Family Therapy**, represented by the red bar, which has a mean **happiness score of 5.38.**
 
 **This suggests that, on average, individuals who underwent Cognitive Behavioral Therapy reported slightly higher levels of happiness than those who received Family Therapy.** 
 
+**Boxplot**
 
+![Question3_Boxplot](https://github.com/user-attachments/assets/d411aaa3-42e8-439b-aef6-26d85c839637)
+
+The **box plot** shows that both **Cognitive Behavioral Therapy (CBT)** and **Family Therapy** have the same median **happiness score of 5.** This suggests that both therapies have similar average effects on happiness, though the spread and outliers may differ.
 
 
 
