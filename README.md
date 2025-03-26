@@ -59,13 +59,96 @@ The analysis will help provide evidence-based insights to guide the development 
 
 ## Data Description
 
-(Provide a detailed description of the dataset, including variables, data source, and any preprocessing steps involved.)
+The dataset consists of 5000 rows and 18 columns, with both numerical and categorical variables. Below is a breakdown of the columns and their respective data types:
+
+### Columns:
+
+1. **Child_ID:**  
+   - **Type:** Numerical (integer IDs from 1 to 5000).
+   
+2. **Age_at_Divorce:**  
+   - **Type:** Numerical (e.g., 11, 8, 17 — integers representing age).
+
+3. **Custody_Type:**  
+   - **Type:** Categorical (e.g., "Mother", "Father", "Joint", "Foster Care").
+   
+4. **Therapy_Received:**  
+   - **Type:** Categorical (e.g., "Yes", "No").
+
+5. **Therapy_Type:**  
+   - **Type:** Categorical (e.g., "Cognitive Behavioral Therapy", "Family Therapy", "None").
+
+6. **Emotional_Stability_Score:**  
+   - **Type:** Numerical (e.g., 3, 10, 5 — integers, likely a scale).
+
+7. **Academic_Performance:**  
+   - **Type:** Numerical (e.g., 78, 89, 59 — integers, likely a percentage or score).
+
+8. **Peer_Support_Available:**  
+   - **Type:** Categorical (e.g., "Yes", "No").
+
+9. **Depression_Level:**  
+   - **Type:** Numerical (e.g., 5, 3, 7 — integers, likely a scale).
+
+10. **Anxiety_Level:**  
+    - **Type:** Numerical (e.g., 7, 8, 1 — integers, likely a scale).
+
+11. **Social_Trust_Level:**  
+    - **Type:** Numerical (e.g., 7, 6, 9 — integers, likely a scale).
+
+12. **Parent_Income_Level:**  
+    - **Type:** Categorical (e.g., "High", "Low", "Medium").
+
+13. **Divorce_Conflict_Level:**  
+    - **Type:** Categorical (e.g., "Medium", "Low", "High").
+
+14. **Post_Divorce_Residency:**  
+    - **Type:** Categorical (e.g., "Father", "Mother", "Foster Care").
+
+15. **Health_Insurance_Access:**  
+    - **Type:** Categorical (e.g., "Yes", "No").
+
+16. **Support_Group_Joined:**  
+    - **Type:** Categorical (e.g., "Yes", "No").
+
+17. **Relationship_Difficulty:**  
+    - **Type:** Categorical (e.g., "Yes", "No").
+
+18. **Self_Reported_Happiness:**  
+    - **Type:** Numerical (e.g., 3, 1, 4 — integers, likely a scale).
+
+### Summary of Classification:
+
+- **Categorical Columns:**  
+   - **Total:** 10 categorical columns  
+   - **Columns:** Custody_Type, Therapy_Received, Therapy_Type, Peer_Support_Available, Parent_Income_Level, Divorce_Conflict_Level, Post_Divorce_Residency, Health_Insurance_Access, Support_Group_Joined, Relationship_Difficulty
+
+- **Numerical Columns:**  
+   - **Total:** 8 numerical columns  
+   - **Columns:** Child_ID, Age_at_Divorce, Emotional_Stability_Score, Academic_Performance, Depression_Level, Anxiety_Level, Social_Trust_Level, Self_Reported_Happiness
+
+### Final Answer:
+- **Number of Rows:** 5000
+- **Number of Columns:** 18
+- **Number of Categorical Columns:** 10
+- **Number of Numerical Columns:** 8
 
 ---
 
 ## Methods and Approach
 
-(Briefly explain the methods, techniques, and tools used for data analysis, such as statistical models, machine learning algorithms, or data visualization techniques.)
+
+In this project, the following tools and libraries were used to process and analyze the data:
+
+1. **Python:** The primary programming language used for data analysis and model implementation.
+   
+2. **Pandas:** Used extensively for data manipulation, cleaning, and processing. Pandas DataFrame was used for handling and exploring the dataset.
+
+3. **Seaborn:** Utilized for statistical data visualization. Seaborn was used to create informative and aesthetically pleasing plots to explore correlations and distributions of various variables.
+
+4. **Plotly:** Employed for creating interactive visualizations. Plotly was particularly useful for creating interactive charts and graphs, allowing for deeper insights into the data.
+
+These tools provided a robust framework for data analysis, visualization, and interpretation of the results.
 
 ---
 
