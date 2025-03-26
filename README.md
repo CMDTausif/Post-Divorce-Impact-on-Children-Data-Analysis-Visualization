@@ -204,10 +204,25 @@ This bubble chart demonstrates :
 
 The chart suggests that depression and emotional stability are not directly correlated, as emotional stability fluctuates even with increasing depression levels.  The anxiety level interacts dynamically with depression and emotional stability. In some cases, high depression might coincide with high anxiety (yellow color), while in others, high depression might correlate with lower anxiety (blue color). 
 
+**DensityHeatMap** 
 
+![Question2_DensityHeatmap](https://github.com/user-attachments/assets/9df484a7-9151-493f-8d80-909b0d0346ab)
 
+A **density heatmap** that shows the relationship between Depression Level, Emotional Stability Score, and Anxiety Level. 
 
+The color gradient indicates the anxiety level. Yellow represents higher anxiety levels, and blue represents lower anxiety levels.
 
+From the **heatmap**, it can be observed that as the Depression Level increases, the Emotional Stability Score also tends to increase. However, the Anxiety Level does not follow a consistent pattern, with fluctuations observed. This suggests that while higher depression levels are sometimes associated with better emotional stability, the relationship between anxiety and these two factors is not linear. Anxiety levels appear to increase and decrease unpredictably across different ranges of depression and emotional stability scores, indicating that anxiety may not always correlate directly with changes in depression or emotional stability.
+
+3. **How does the child’s self-reported happiness score correlate with therapy receipt and type (Cognitive Behavioral Therapy vs. Family Therapy)?**
+
+**Piechart**
+
+![Question3_Piechart](https://github.com/user-attachments/assets/304d392d-1ee9-4a1b-bc74-dde326119e29)
+
+The **pie chart** delineates  the proportional distribution of different therapy types and their corresponding happiness scores, highlighting which therapy types have the most influence or frequency in the dataset.  
+
+The **pie chart** shows that **Family Therapy (represented by the blue section)** makes up **66.9%** of the total data, while **Cognitive Behavioral Therapy (CBT) (represented by the red section)** accounts for **33.1%**. This distribution suggests that a higher proportion of individuals in the dataset received Family Therapy compared to **Cognitive Behavioral Therapy.**
 
 
 
