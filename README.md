@@ -441,6 +441,6 @@ These insights emphasize the need for targeted interventions, improved therapy p
 
 ## Project Link-
 
-Due to bigger size of .ipynb file I could not upload it in github. Here is the shared google link [https://drive.google.com/drive/folders/1ITkoowND94D2NMyI2qlQduCwT-lBPBir?usp=drive_link]. 
+Due to bigger size of .ipynb file I could not upload it in github. Here is the shared Google Drive link [https://drive.google.com/drive/folders/1ITkoowND94D2NMyI2qlQduCwT-lBPBir?usp=drive_link]. 
 
 
