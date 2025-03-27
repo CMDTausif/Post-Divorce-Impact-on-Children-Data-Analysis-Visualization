@@ -430,10 +430,13 @@ This means that, on average, individuals in the "Father" category tend to have h
 
 The heatmap suggests that peer support has a more significant impact on emotional stability in Family Therapy, with a notable increase in the emotional stability score when peer support is available **(9230 vs. 9091)**. In contrast, peer support shows minimal impact on emotional stability for Cognitive Behavioral Therapy (CBT), as the scores are nearly identical whether peer support is available or not **(4481 vs. 4505)**. This indicates that Family Therapy may benefit more from peer support, while CBT's effectiveness seems to be less influenced by it, possibly due to the individual-focused nature of CBT compared to the more interpersonal dynamics of Family Therapy.
 
+---
 
+## Conclusion
 
+This analysis highlights the significant impact of parental divorce on children's emotional stability, academic performance, and future relationships. Key findings suggest that custody arrangements, therapy, peer support, and socioeconomic factors play a crucial role in shaping children's well-being post-divorce. Therapy, particularly Cognitive Behavioral Therapy, appears to enhance emotional resilience, while peer support contributes positively to both emotional and academic outcomes. Additionally, access to health insurance improves mental health care availability, reducing anxiety and depression levels.  
 
-
+These insights emphasize the need for targeted interventions, improved therapy programs, and stronger support structures to mitigate the adverse effects of parental divorce and promote healthier emotional and psychological development in children.
 
 
 
