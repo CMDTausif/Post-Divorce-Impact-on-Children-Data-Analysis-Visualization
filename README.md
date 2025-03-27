@@ -241,27 +241,194 @@ The bar chart reveals that **Cognitive Behavioral Therapy (CBT)**, represented b
 The **box plot** shows that both **Cognitive Behavioral Therapy (CBT)** and **Family Therapy** have the same median **happiness score of 5.** This suggests that both therapies have similar average effects on happiness, though the spread and outliers may differ.
 
 
+4. **Does the availability of peer support positively impact the child’s emotional stability and academic performance?**
+
+**Scatterplot**-
+
+![Question4_ScatterPlot](https://github.com/user-attachments/assets/2a0a0427-5c47-4e46-91d0-e7a947310560)
+
+The bubble chart shows that as the Emotional Stability Score increases, the Academic Performance Score also increases. This trend appears to be influenced by the availability of peer support.
+
+**When peer support is available (Yes):** The bubbles representing these points tend to be larger, indicating a positive correlation between emotional stability and academic performance.
+
+**When peer support is not available (No):** The bubbles are smaller, and the relationship between emotional stability and academic performance might be less pronounced or fluctuating.
+
+This suggests that peer support might play a role in improving both emotional stability and academic performance.
+
+5. **How does a child’s academic performance relate to their emotional stability and therapy received?**
+
+**Bargraph - Academic Performance by Therapy Type**
+
+![Question5_Bargraph](https://github.com/user-attachments/assets/e25a6608-cc23-485e-99d5-934fc9a6b8be)
+
+The bar chart illustrates the average academic performance based on whether therapy was received or not.
+
+* **When therapy was received (Yes):** The bar is colored green and shows an average academic performance score of 75.26.
+
+* **When therapy was not received (No):** The bar is colored red and shows an average academic performance score of 74.82.
+
+This suggests that therapy might have a slight positive effect on academic performance, as the average score for those who received therapy is marginally higher than for those who did not.
+
+**Bargraph - Academic Performance vs Emotional Stability by Therapy Received**
+
+![Question5_Bargraph2](https://github.com/user-attachments/assets/3baa5ecd-f640-4148-9377-1af21395df30)
+
+In the bar chart, based on the therapy received (Yes or No), we can observe the following insights:
+
+**For Academic Performance:**
+
+* When therapy is received (Yes), the average academic performance is 75.26.
+
+* When therapy is not received (No), the average academic performance is 74.82.
+
+**For Emotional Stability Score:**
+
+* When therapy is received (Yes), the average emotional stability score is 5.43.
+
+* When therapy is not received (No), the average emotional stability score is 5.48.
 
 
+**Academic Performance** is slightly better for those who have received therapy (75.26 vs. 74.82).
+
+**Emotional Stability** is slightly better for those who have not received therapy (5.48 vs. 5.43).
 
 
+6. **What is the impact of parental income level on a child’s academic performance post-divorce?**
+
+**Bargraph**
+
+![Question6_Bargraph3](https://github.com/user-attachments/assets/ed6f5b35-23c2-4744-8994-2602a749663d)
+
+In the bar graph showing Academic Performance by Parent Income Level:
+
+* The **High income group**, represented by the **light green bar**, has an **academic performance score** of **75.61.**
+
+* The **Low income group**, represented by the **light red bar**, has an **academic performance score** of **74.64.**
+
+* The **Medium income group**, represented by the **light blue bar**, has an **academic performance score** of **74.86.**
+
+This suggests that students with higher parental income tend to have slightly better academic performance compared to those with lower or medium income.
+
+**Treemap**
+
+![Question6_Treegraph](https://github.com/user-attachments/assets/d61e4b81-4e7e-4ac1-8c76-ad3cc44506c5)
+
+In the Treemap of Academic Performance by Parent Income Level:
+
+* **Medium income group (blue)** has a total academic performance score of 128,624.
+
+* **High income group (red)** has a total academic performance score of 126,284.
+
+* **Low income group (green)** has a total academic performance score of 120,326.
+
+This suggests that students from medium-income families collectively have the highest academic performance, followed by high-income and then low-income families. However, this does not indicate individual performance but rather the total contribution of each income group.
+
+**ViolinPLot**
+
+![Question6_ViolinPlot](https://github.com/user-attachments/assets/5949cb84-cf35-4111-a3a0-631e035c3088)
+
+The violin plot shows that academic performance scores range from 50 to 100 across all **parent income levels (High, Medium, Low)** with a similar distribution. The median score is around **75-80** for all groups, and the **interquartile range (IQR)** is consistent, indicating no significant performance gap. The density of scores is highest between **80-90**, meaning most students score within this range. The distribution is **symmetric**, with no extreme outliers, suggesting income level has little impact on academic performance.
 
 
+7. **Do children living with one parent (vs. foster care) perform better academically?**
+
+**Bargraph**
+
+![Question7_Bargraph](https://github.com/user-attachments/assets/53188bc4-50db-45c4-abfd-e98c4ce2e83d)
+
+The bar chart compares **academic performance based on post-divorce residency**. The **Mother category (goldenrod)** has the highest average score of **75.644**, followed by **Father (dark red)** at **74.768**, and **Foster Care (royal blue)** at **74.734**. The differences are minimal, suggesting post-divorce residency type has little impact on academic performance.
 
 
+**Sunburst**
+
+![Question7_Sunburst](https://github.com/user-attachments/assets/7ec7b971-0b4f-439e-a56c-fbe40ea7322d)
+
+The sunburst chart visualizes the distribution of academic performance based on post-divorce residency type. The **Foster Care category (blue)** has the highest count at 1,689, followed by **Father (red)** at 1,656 and **Mother (green)** at 1,655. The counts are relatively balanced across categories, suggesting no significant dominance of one residency type over others in terms of student population.
 
 
+**Piechart**
+
+![Question7_Pie](https://github.com/user-attachments/assets/43f6e54a-8129-4dcb-9102-38fe0c0c82a4)
+
+The pie chart shows the distribution of academic performance across different post-divorce residency types. The percentages are nearly equal, with **Foster Care (blue) at 33.6%**, **Mother (red) at 33.4%**, and **Father (green) at 33%**. This suggests that academic performance is fairly consistent across residency types, indicating no major advantage or disadvantage based on where a student resides after divorce.
 
 
+**Boxplot**
+
+![Question7_Boxplot](https://github.com/user-attachments/assets/4894409b-ff2d-4c85-9b15-11048ab27188)
+
+The box plot shows the distribution of academic performance across different post-divorce residency types. The median score for students living with their **mother is 77**, which is slightly higher than those living with their **father (74)** or in **foster care (74)**. This suggests that, on average, students residing with their mother tend to perform slightly better academically. However, the spread (interquartile range) and possible outliers would provide more insight into performance variability across these groups.
 
 
+8. **How does the child’s reported level of social trust relate to their relationship difficulties as an adult?**
+
+**ScatterPLot**
+
+![Question8_ScatterPlot](https://github.com/user-attachments/assets/2a44a32e-705f-4fe1-b6a6-028231f1cb7a)
+
+There does not appear to be a strong correlation between Social Trust Level and Relationship Difficulty based on this scatter plot. The relationship might be complex or influenced by other factors not captured in this visualization. A more detailed statistical analysis (like logistic regression) could help clarify any underlying patterns.
 
 
+**DensityHeatMap**
+
+![Question8_DensityHeatmap](https://github.com/user-attachments/assets/bdea4c38-faf0-423b-882f-7b382084cf01)
+
+There is no direct linear relationship between Social Trust Level and Relationship Difficulty. The count of people experiencing relationship difficulties varies across trust levels, suggesting the presence of other influencing factors beyond just social trust.
 
 
+9. **What is the correlation between a child’s reported relationship difficulty and factors like therapy received, post-divorce residency, and parental income level?**
+
+**Bargraph**
+
+![Question9_Bargraph](https://github.com/user-attachments/assets/f061fdcd-8459-476e-8dc5-db073071c71b)
+
+When there is a relationship difficulty (i.e., for "Yes"), **Foster Care** has the highest average relationship difficulty score at **0.525**, followed by **Father** at **0.483**, and **Mother** with the lowest score of **0.465**. In contrast, when there is no relationship difficulty (i.e., for "No"), Mother has the highest average score at **0.503**, closely followed by **Foster Care** at **0.509**, and **Father** with the lowest score of **0.48**. **Overall, Foster Care tends to have the highest difficulty score in both cases, while Mother's and Father's scores are relatively close, with Mother slightly higher when there is no difficulty, and Father slightly higher when there is a difficulty.**
 
 
+10. **How does the availability of health insurance impact the child’s access to mental health care and therapy after divorce?**
 
+**DonutChart**
+
+![Question10_Donutchart](https://github.com/user-attachments/assets/558a70b2-731f-4b77-b69f-03b0c12c96b0)
+
+This suggests that almost half of the individuals have access to health insurance **(Yes/1)**, while the other half does not **(No/0)**. The **donut chart** visually represents these proportions with the blue section covering **50.2%** of the chart and the red section covering **49.8%.**
+
+This gives an easy visual comparison of the two groups, helping to highlight the nearly equal distribution of health insurance access.
+
+11. **Is there a correlation between the child joining a support group and their mental health outcomes (e.g., reduced depression/anxiety levels)?**
+
+**Histplot**
+
+![Question11_Histplot](https://github.com/user-attachments/assets/7ef0e6c9-5dc4-422b-bf5b-eb0ab754ad42)
+
+The histogram shows the distribution of **Depression Levels** based on whether individuals **joined a support group or not**. The **blue bars** represent individuals **who did not join a support group**, while the **orange bars** indicate those **who did**. Across all depression levels, the count of non-members is consistently higher than that of support group members. The distribution appears uniform, with no extreme spikes at specific depression levels. The **KDE curves** further highlight this trend, showing that the overall depression level patterns are similar for both groups, with non-members having a slightly higher density. **This suggests that while support group participation exists, it does not drastically alter the depression level distribution.**
+
+
+12. **How do different post-divorce residencies (Mother, Father, Foster Care) influence the child’s emotional stability and happiness?**
+
+**Boxplot**
+
+![Question12_Boxplot](https://github.com/user-attachments/assets/a7d89c9c-95b8-4761-bc56-4f28e1f81408)
+
+
+The Box Plot indicates - 
+
+**Father (Blue)** has the highest median emotional stability score of 6.
+
+**Foster Care (Red)** has a median emotional stability score of 5.
+
+**Mother (Green)** also has a median emotional stability score of 5.
+
+This means that, on average, individuals in the "Father" category tend to have higher emotional stability post-divorce compared to those in the "Foster Care" and "Mother" categories, who have the same median emotional stability score.
+
+
+13. **Does therapy, in combination with other factors like peer support and post-divorce residency, lead to improved emotional stability in children?**
+
+**DensityMap**
+
+![Question13_DensityHeatmap](https://github.com/user-attachments/assets/724d5c3b-dd15-442b-a10e-c0d5ba0da5df)
+
+The heatmap suggests that peer support has a more significant impact on emotional stability in Family Therapy, with a notable increase in the emotional stability score when peer support is available **(9230 vs. 9091)**. In contrast, peer support shows minimal impact on emotional stability for Cognitive Behavioral Therapy (CBT), as the scores are nearly identical whether peer support is available or not **(4481 vs. 4505)**. This indicates that Family Therapy may benefit more from peer support, while CBT's effectiveness seems to be less influenced by it, possibly due to the individual-focused nature of CBT compared to the more interpersonal dynamics of Family Therapy.
 
 
 
